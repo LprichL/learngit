@@ -1,2 +1,3 @@
-Git is a Vision Control system.
+Git is a distribute Vision Control system.
 Git is free software.
+
